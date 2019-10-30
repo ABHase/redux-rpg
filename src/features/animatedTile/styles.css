@@ -1,0 +1,5 @@
+.max-content {
+  width: -moz-max-content;
+  width: max-content;
+  border: 2px dotted rgb(96, 139, 168);
+}
