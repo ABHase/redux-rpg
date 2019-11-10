@@ -1,5 +1,10 @@
 11/10/19
 
+Credit to Victor Catalin Torac for the tutorial and code used in generating the procedural dungeon located at https://medium.com/@victorcatalintorac/dungeon-with-rooms-algorithm-for-javascript-ultimate-begginer-guide-ec1489e90314
+
+Incredibly easy to understand code, modified by me and used is producing the first example of the procedural map.
+
+
 Inside data/maps contains two options for the tiles.
 
 1 can be manually edited to create a static hand drawn map.
