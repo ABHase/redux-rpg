@@ -11,6 +11,14 @@
   background-image: url('/tiles/tree.png');
   
 }
+.black {
+  background-color: grey;
+  
+}
+
+.door {
+  background-color: red;
+}
 
 .rock {
   background-image: url('/tiles/rock.png');

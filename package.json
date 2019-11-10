@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "lodash": "^4.17.15",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-redux": "^7.1.1",
@@ -35,6 +36,7 @@
     ]
   },
   "devDependencies": {
+    "eslint-plugin-lodash": "^6.0.0",
     "gh-pages": "^2.1.1"
   }
 }

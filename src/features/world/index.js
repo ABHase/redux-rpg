@@ -2,7 +2,7 @@ import React from "react";
 import Map from "../map";
 import Player from "../player";
 
-import { tiles } from '../../data/maps/1'
+import { tiles } from '../../data/maps/2'
 import store from '../../config/store'
 import Player2 from "../player2";
 
