@@ -94,6 +94,8 @@ const placeCells = (tiles, {x, y, width = 1, height = 1,}, tile = 1) => {
   }
   return tiles;}
 
+  // Below is optional code for a randomly placed first room of a random size
+
 	// 2. random values for the first area
 	// const [min, max] = c.ROOM_SIZE_RANGE;
 	// const firstRoom = {
@@ -102,6 +104,8 @@ const placeCells = (tiles, {x, y, width = 1, height = 1,}, tile = 1) => {
 	// 	height: _.random(min, max),
 	// 	width: _.random(min, max)
   // };
+
+  // Alternative first room placed at 0,0 to make sure the player is placed in the first room
 
   const firstRoom = {
 		x: 0,
@@ -127,27 +131,3 @@ const growMap = (tiles, seedRooms, counter = 1, maxRooms = c.MAX_ROOMS) => {
 growMap(tiles, [firstRoom]);
 
 export {tiles}
-
-
-
-
-
-
-
-
-
-
-
-
-// export const tiles = [
-//   Array.from({length: 20}, () => Math.floor(Math.random() * 2)),
-//   Array.from({length: 20}, () => Math.floor(Math.random() * 2)),
-//   Array.from({length: 20}, () => Math.floor(Math.random() * 2)),
-//   Array.from({length: 20}, () => Math.floor(Math.random() * 2)),
-//   Array.from({length: 20}, () => Math.floor(Math.random() * 2)),
-//   Array.from({length: 20}, () => Math.floor(Math.random() * 2)),
-//   Array.from({length: 20}, () => Math.floor(Math.random() * 2)),
-//   Array.from({length: 20}, () => Math.floor(Math.random() * 2)),
-//   Array.from({length: 20}, () => Math.floor(Math.random() * 2)),
-//   Array.from({length: 20}, () => Math.floor(Math.random() * 2)),
-// ]
