@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/redux-rpg/static/css/main.3c9a670d.chunk.css",
-    "main.js": "/redux-rpg/static/js/main.c64a6320.chunk.js",
-    "main.js.map": "/redux-rpg/static/js/main.c64a6320.chunk.js.map",
+    "main.css": "/redux-rpg/static/css/main.2d16fd3a.chunk.css",
+    "main.js": "/redux-rpg/static/js/main.2e0612da.chunk.js",
+    "main.js.map": "/redux-rpg/static/js/main.2e0612da.chunk.js.map",
     "runtime-main.js": "/redux-rpg/static/js/runtime-main.754271c9.js",
     "runtime-main.js.map": "/redux-rpg/static/js/runtime-main.754271c9.js.map",
-    "static/js/2.4a78d79f.chunk.js": "/redux-rpg/static/js/2.4a78d79f.chunk.js",
-    "static/js/2.4a78d79f.chunk.js.map": "/redux-rpg/static/js/2.4a78d79f.chunk.js.map",
+    "static/js/2.74ae28c8.chunk.js": "/redux-rpg/static/js/2.74ae28c8.chunk.js",
+    "static/js/2.74ae28c8.chunk.js.map": "/redux-rpg/static/js/2.74ae28c8.chunk.js.map",
     "index.html": "/redux-rpg/index.html",
-    "precache-manifest.43f125b61d591aca48008bacc64307ac.js": "/redux-rpg/precache-manifest.43f125b61d591aca48008bacc64307ac.js",
+    "precache-manifest.974ef09b16adf7b809f1c0b3667c1c54.js": "/redux-rpg/precache-manifest.974ef09b16adf7b809f1c0b3667c1c54.js",
     "service-worker.js": "/redux-rpg/service-worker.js",
-    "static/css/main.3c9a670d.chunk.css.map": "/redux-rpg/static/css/main.3c9a670d.chunk.css.map",
+    "static/css/main.2d16fd3a.chunk.css.map": "/redux-rpg/static/css/main.2d16fd3a.chunk.css.map",
     "static/media/chest.png": "/redux-rpg/static/media/chest.6734d051.png",
     "static/media/sprite_shet_progress2.png": "/redux-rpg/static/media/sprite_shet_progress2.e96236c5.png",
     "static/media/tree.png": "/redux-rpg/static/media/tree.acb47eac.png"
   },
   "entrypoints": [
     "static/js/runtime-main.754271c9.js",
-    "static/js/2.4a78d79f.chunk.js",
-    "static/css/main.3c9a670d.chunk.css",
-    "static/js/main.c64a6320.chunk.js"
+    "static/js/2.74ae28c8.chunk.js",
+    "static/css/main.2d16fd3a.chunk.css",
+    "static/js/main.2e0612da.chunk.js"
   ]
 }
