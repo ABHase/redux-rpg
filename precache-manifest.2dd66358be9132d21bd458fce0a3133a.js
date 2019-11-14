@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79e6842c4796edae571b5ba2b21904ec",
+    "revision": "a73ddd925afa86c340be860747ae7eb6",
     "url": "/redux-rpg/index.html"
   },
   {
-    "revision": "024a070ecf220680d8f5",
-    "url": "/redux-rpg/static/css/main.10151075.chunk.css"
+    "revision": "941a80447678c4a53c84",
+    "url": "/redux-rpg/static/css/main.2d16fd3a.chunk.css"
   },
   {
     "revision": "c65b5db8da5f81596d55",
     "url": "/redux-rpg/static/js/2.74ae28c8.chunk.js"
   },
   {
-    "revision": "024a070ecf220680d8f5",
+    "revision": "941a80447678c4a53c84",
     "url": "/redux-rpg/static/js/main.98289c86.chunk.js"
   },
   {

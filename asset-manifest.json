@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/redux-rpg/static/css/main.10151075.chunk.css",
+    "main.css": "/redux-rpg/static/css/main.2d16fd3a.chunk.css",
     "main.js": "/redux-rpg/static/js/main.98289c86.chunk.js",
     "main.js.map": "/redux-rpg/static/js/main.98289c86.chunk.js.map",
     "runtime-main.js": "/redux-rpg/static/js/runtime-main.754271c9.js",
@@ -8,9 +8,9 @@
     "static/js/2.74ae28c8.chunk.js": "/redux-rpg/static/js/2.74ae28c8.chunk.js",
     "static/js/2.74ae28c8.chunk.js.map": "/redux-rpg/static/js/2.74ae28c8.chunk.js.map",
     "index.html": "/redux-rpg/index.html",
-    "precache-manifest.c0379b67d4c25376ff97265ce936e14d.js": "/redux-rpg/precache-manifest.c0379b67d4c25376ff97265ce936e14d.js",
+    "precache-manifest.2dd66358be9132d21bd458fce0a3133a.js": "/redux-rpg/precache-manifest.2dd66358be9132d21bd458fce0a3133a.js",
     "service-worker.js": "/redux-rpg/service-worker.js",
-    "static/css/main.10151075.chunk.css.map": "/redux-rpg/static/css/main.10151075.chunk.css.map",
+    "static/css/main.2d16fd3a.chunk.css.map": "/redux-rpg/static/css/main.2d16fd3a.chunk.css.map",
     "static/media/chest.png": "/redux-rpg/static/media/chest.6734d051.png",
     "static/media/sprite_shet_progress2.png": "/redux-rpg/static/media/sprite_shet_progress2.e96236c5.png",
     "static/media/tree.png": "/redux-rpg/static/media/tree.acb47eac.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.754271c9.js",
     "static/js/2.74ae28c8.chunk.js",
-    "static/css/main.10151075.chunk.css",
+    "static/css/main.2d16fd3a.chunk.css",
     "static/js/main.98289c86.chunk.js"
   ]
 }
