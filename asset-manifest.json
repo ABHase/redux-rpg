@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d16fd3a.chunk.css",
-    "main.js": "/static/js/main.98289c86.chunk.js",
-    "main.js.map": "/static/js/main.98289c86.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e90cc756.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e90cc756.js.map",
-    "static/js/2.74ae28c8.chunk.js": "/static/js/2.74ae28c8.chunk.js",
-    "static/js/2.74ae28c8.chunk.js.map": "/static/js/2.74ae28c8.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.88846f0b794ca64d434d78f070a672e7.js": "/precache-manifest.88846f0b794ca64d434d78f070a672e7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2d16fd3a.chunk.css.map": "/static/css/main.2d16fd3a.chunk.css.map",
-    "static/media/chest.png": "/static/media/chest.6734d051.png",
-    "static/media/sprite_shet_progress2.png": "/static/media/sprite_shet_progress2.e96236c5.png",
-    "static/media/tree.png": "/static/media/tree.acb47eac.png"
+    "main.css": "/redux-rpg/static/css/main.2d16fd3a.chunk.css",
+    "main.js": "/redux-rpg/static/js/main.98289c86.chunk.js",
+    "main.js.map": "/redux-rpg/static/js/main.98289c86.chunk.js.map",
+    "runtime-main.js": "/redux-rpg/static/js/runtime-main.754271c9.js",
+    "runtime-main.js.map": "/redux-rpg/static/js/runtime-main.754271c9.js.map",
+    "static/js/2.74ae28c8.chunk.js": "/redux-rpg/static/js/2.74ae28c8.chunk.js",
+    "static/js/2.74ae28c8.chunk.js.map": "/redux-rpg/static/js/2.74ae28c8.chunk.js.map",
+    "index.html": "/redux-rpg/index.html",
+    "precache-manifest.2dd66358be9132d21bd458fce0a3133a.js": "/redux-rpg/precache-manifest.2dd66358be9132d21bd458fce0a3133a.js",
+    "service-worker.js": "/redux-rpg/service-worker.js",
+    "static/css/main.2d16fd3a.chunk.css.map": "/redux-rpg/static/css/main.2d16fd3a.chunk.css.map",
+    "static/media/chest.png": "/redux-rpg/static/media/chest.6734d051.png",
+    "static/media/sprite_shet_progress2.png": "/redux-rpg/static/media/sprite_shet_progress2.e96236c5.png",
+    "static/media/tree.png": "/redux-rpg/static/media/tree.acb47eac.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e90cc756.js",
+    "static/js/runtime-main.754271c9.js",
     "static/js/2.74ae28c8.chunk.js",
     "static/css/main.2d16fd3a.chunk.css",
     "static/js/main.98289c86.chunk.js"
