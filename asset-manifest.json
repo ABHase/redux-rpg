@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/redux-rpg/static/css/main.118f6fc0.chunk.css",
-    "main.js": "/redux-rpg/static/js/main.98289c86.chunk.js",
-    "main.js.map": "/redux-rpg/static/js/main.98289c86.chunk.js.map",
+    "main.css": "/redux-rpg/static/css/main.9005cfa9.chunk.css",
+    "main.js": "/redux-rpg/static/js/main.b112cc4a.chunk.js",
+    "main.js.map": "/redux-rpg/static/js/main.b112cc4a.chunk.js.map",
     "runtime-main.js": "/redux-rpg/static/js/runtime-main.754271c9.js",
     "runtime-main.js.map": "/redux-rpg/static/js/runtime-main.754271c9.js.map",
-    "static/js/2.74ae28c8.chunk.js": "/redux-rpg/static/js/2.74ae28c8.chunk.js",
-    "static/js/2.74ae28c8.chunk.js.map": "/redux-rpg/static/js/2.74ae28c8.chunk.js.map",
+    "static/js/2.0c8cad7d.chunk.js": "/redux-rpg/static/js/2.0c8cad7d.chunk.js",
+    "static/js/2.0c8cad7d.chunk.js.map": "/redux-rpg/static/js/2.0c8cad7d.chunk.js.map",
     "index.html": "/redux-rpg/index.html",
-    "precache-manifest.812111da130aa0b52ef276f7a0f393f3.js": "/redux-rpg/precache-manifest.812111da130aa0b52ef276f7a0f393f3.js",
+    "precache-manifest.6275dade473c99d33868c2b0b36a1362.js": "/redux-rpg/precache-manifest.6275dade473c99d33868c2b0b36a1362.js",
     "service-worker.js": "/redux-rpg/service-worker.js",
-    "static/css/main.118f6fc0.chunk.css.map": "/redux-rpg/static/css/main.118f6fc0.chunk.css.map",
+    "static/css/main.9005cfa9.chunk.css.map": "/redux-rpg/static/css/main.9005cfa9.chunk.css.map",
     "static/media/chest.png": "/redux-rpg/static/media/chest.6734d051.png",
-    "static/media/styles.css": "/redux-rpg/static/media/upstairs.30680895.png",
-    "static/media/sprite_shet_progress2.png": "/redux-rpg/static/media/sprite_shet_progress2.e96236c5.png",
+    "static/media/styles.css": "/redux-rpg/static/media/upstairs3.4a512e8c.png",
+    "static/media/sprite_sheet3.png": "/redux-rpg/static/media/sprite_sheet3.dbf207cf.png",
     "static/media/tree.png": "/redux-rpg/static/media/tree.acb47eac.png"
   },
   "entrypoints": [
     "static/js/runtime-main.754271c9.js",
-    "static/js/2.74ae28c8.chunk.js",
-    "static/css/main.118f6fc0.chunk.css",
-    "static/js/main.98289c86.chunk.js"
+    "static/js/2.0c8cad7d.chunk.js",
+    "static/css/main.9005cfa9.chunk.css",
+    "static/js/main.b112cc4a.chunk.js"
   ]
 }

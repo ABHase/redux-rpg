@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb71ab95721d66387f27b37ba4d99eff",
+    "revision": "fc1960d99c96c4ce20ed3508fbead206",
     "url": "/redux-rpg/index.html"
   },
   {
-    "revision": "dd684c944d7d3ded8220",
-    "url": "/redux-rpg/static/css/main.118f6fc0.chunk.css"
+    "revision": "448f45d591b341a6e70f",
+    "url": "/redux-rpg/static/css/main.9005cfa9.chunk.css"
   },
   {
-    "revision": "c65b5db8da5f81596d55",
-    "url": "/redux-rpg/static/js/2.74ae28c8.chunk.js"
+    "revision": "7150e73b48a4b0cff006",
+    "url": "/redux-rpg/static/js/2.0c8cad7d.chunk.js"
   },
   {
-    "revision": "dd684c944d7d3ded8220",
-    "url": "/redux-rpg/static/js/main.98289c86.chunk.js"
+    "revision": "448f45d591b341a6e70f",
+    "url": "/redux-rpg/static/js/main.b112cc4a.chunk.js"
   },
   {
     "revision": "5ca44ae24c5036b7fb40",
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/redux-rpg/static/media/chest.b1a0320d.png"
   },
   {
-    "revision": "21dc19a8426b8191ddcbe687d8e78cd8",
-    "url": "/redux-rpg/static/media/rock.21dc19a8.png"
+    "revision": "749cda4db15dc8bcd0fe38da746d2fce",
+    "url": "/redux-rpg/static/media/downstairs3.749cda4d.png"
   },
   {
     "revision": "a82ed758cd6f494d1f7e040f64dd23ee",
     "url": "/redux-rpg/static/media/rock2.a82ed758.png"
   },
   {
-    "revision": "e96236c519c8b3cb4fad97de42f25230",
-    "url": "/redux-rpg/static/media/sprite_shet_progress2.e96236c5.png"
+    "revision": "dbf207cf880d828f8903dbbfe6c1ffd9",
+    "url": "/redux-rpg/static/media/sprite_sheet3.dbf207cf.png"
   },
   {
     "revision": "14b8c9ba0adcbbd57b59a528d9038562",
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/redux-rpg/static/media/tree.acb47eac.png"
   },
   {
-    "revision": "30680895f8c8491d6a9969b2aee6156c",
-    "url": "/redux-rpg/static/media/upstairs.30680895.png"
+    "revision": "4a512e8c3f9dafe4612aed8f1172adb8",
+    "url": "/redux-rpg/static/media/upstairs3.4a512e8c.png"
   }
 ]);
